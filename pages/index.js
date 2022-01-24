@@ -5,10 +5,11 @@ import {useState} from 'react';
 function Home(){
     return ( 
     <div>
-        <h1>PRIMEIRO COMPONENTE REACT</h1>
+        <h1>ate que em fim no ar</h1>
         <Contador/>
-        <div>e isso ai persistencia</div>
+        <div>e isso ai persistencia e perceveranca</div>
         <img src='../mulher.jpg'></img>
+        <h2>to feliz!!!</h2>
 
     </div>
     )
