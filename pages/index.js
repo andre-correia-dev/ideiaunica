@@ -6,6 +6,7 @@ function Home(){
     return ( 
     <div>
         <h1>ate que em fim no ar</h1>
+        <p> LIKE </p>
         <Contador/>
         <div>e isso ai persistencia e perceveranca</div>
         <img src='../mulher.jpg'></img>
@@ -15,7 +16,7 @@ function Home(){
     )
 }
 function Contador(){
-    const [Contador,setContador]=useState(1);
+    const [Contador,setContador]=useState(0);
 
     function adicionarContador(){
         setContador(Contador + 1);
