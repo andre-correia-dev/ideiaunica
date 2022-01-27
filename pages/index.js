@@ -5,12 +5,15 @@ import {useState} from 'react';
 function Home(){
     return ( 
     <div>
-        <h1>ate que em fim no ar</h1>
+        <h1>teste deploy
+
+
+        </h1>
         <p> LIKE </p>
         <Contador/>
-        <div>e isso ai persistencia e perceveranca</div>
-        <img src='../mulher.jpg'></img>
-        <h2>to feliz!!!</h2>
+        
+        <img src='./img/burguer.jpg'></img>
+    
 
     </div>
     )
