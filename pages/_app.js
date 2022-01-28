@@ -10,23 +10,23 @@ function Home(){
             Cardapio virtual 🍔 🍟 🍻
         </div>
     <div className='linha'>
-    <img src='burguer1.jpg' alt='figure' width={170} height={170}></img>
+    <img src='burguer1.jpg' alt='figure' width={160} height={170}></img>
         
     
-       <img src='sanduba.jpg' alt='figure' width={170} height={170}></img>
+       <img src='sanduba.jpg' alt='figure' width={170} height={160}></img>
        
        </div>
        <div className='linha'>
 
-       <img src='burger2.jpg' alt='figure' width={170} height={170}></img>
+       <img src='burger2.jpg' alt='figure' width={170} height={160}></img>
 
-       <img src='hamburger.jpg' alt='figure' width={170} height={170}></img>
+       <img src='hamburger.jpg' alt='figure' width={170} height={160}></img>
        </div>
        <div className='linha'>
 
-       <img src='batata2.jpg' alt='figure' width={170} height={170}></img>
+       <img src='batata2.jpg' alt='figure' width={170} height={160}></img>
 
-       <img src='burguer.jpg' alt='figure' width={170} height={170}></img>
+       <img src='burguer.jpg' alt='figure' width={170} height={160}></img>
 
        </div>
 
