@@ -1,0 +1,23 @@
+.ambiente{
+    
+    text-align: center;
+    margin: auto;
+    width: 600px;
+}
+.ambiente h1{
+    font-size: 40px;
+
+}
+.ambiente p{
+    font-size:30px ;
+}
+.ambiente button{
+    background-color: orange;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+
+}
+.ambiente div{
+    box-shadow: 5px 5px 5px black;
+}

@@ -1,0 +1,14 @@
+.anuncio{
+    text-align: center;
+    margin: auto;
+}
+.anuncio h1{
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
+.anuncio button{
+    background-color: orange;
+    width: 100px;
+    font-size: 20px;
+
+}

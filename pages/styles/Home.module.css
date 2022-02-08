@@ -1,0 +1,17 @@
+.Home{
+   
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    margin-top: 20px;
+}
+.Home p{
+    color: rgb(13, 13, 14);
+    font-size: 30px;
+    text-align: center;
+    text-justify: distribute;
+    margin-bottom: 20px;
+}
+.Home a{
+    margin-bottom: 20px;
+}

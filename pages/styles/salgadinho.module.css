@@ -1,0 +1,20 @@
+.salgadinho{
+    text-align: center;
+    margin: auto;
+    width: 600px;
+}
+.salgadinho h1{
+    color: yellow;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px black;
+
+}
+.salgadinho div{
+    margin-bottom: 25px;
+    margin-right: 0px;
+}
+.salgadinho button{
+    background-color: orange;
+    width: 100px;
+    font-size: 20px;
+}
